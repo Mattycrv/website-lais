@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Luckiest+Guy&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Quicksand:wght@300..700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@font-face {
+    font-family: "Coterie";
+    src: url(../fonts/coterie-regular.eot) format("eot"),
+         url(../fonts/coterie-regular.woff) format("woff"),
+         url(../fonts/coterie-regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    --primary-color: #4A2C1F;
+    --second-color: #825f50;
+    --terciary-color: #FFFFFF;
+    --bg-color: rgba(74, 44, 31, 0.9);
+    font-size: 10px;
+    scroll-behavior: smooth;
+}
+
+* {
+    font-family: "Alata";
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+}

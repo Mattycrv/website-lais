@@ -224,7 +224,7 @@ iframe {
         right: 0;
         width: 50vw;
         height: 60vh;
-        background: rgba(255, 255, 255, 0.7);
+        background: rgba(255, 255, 255, 0.9);
         flex-direction: column;
         align-items: center;
         transform: translateX(100%);

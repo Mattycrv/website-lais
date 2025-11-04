@@ -513,7 +513,7 @@ i.fa-brands.fa-instagram, i.fa-brands.fa-whatsapp {
 @media (max-width: 480px) {
     .navbar__menu {
         position: absolute;
-        top: 15.555vh;
+        top: 16.6vh;
         right: 0;
         width: 50vw;
         height: 60vh;

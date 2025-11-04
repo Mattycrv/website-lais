@@ -239,7 +239,7 @@ iframe {
 @media (max-width: 480px) {
     .navbar__menu {
         position: absolute;
-        top: 15.4vh;
+        top: 14vh;
         right: 0;
         width: 50vw;
         height: 60vh;
